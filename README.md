@@ -1,0 +1,2 @@
+# Ponderada_turtlebot_teleoperado
+Atividade ponderada do turtlebot teleoperado
