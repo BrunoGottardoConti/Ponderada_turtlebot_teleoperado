@@ -1,0 +1,20 @@
+[0.380s] Invoking command in '/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller': PYTHONPATH=/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/prefix_override:/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/build --no-deps symlink_data
+[0.556s] running develop
+[0.556s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.556s]   warnings.warn(
+[0.652s] running egg_info
+[0.652s] writing my_robot_controller.egg-info/PKG-INFO
+[0.652s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.652s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.652s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.652s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.654s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.654s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.655s] running build_ext
+[0.655s] Creating /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.655s] 
+[0.655s] Installed /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller
+[0.655s] running symlink_data
+[0.655s] symbolically linking /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/resource/my_robot_controller -> /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.656s] error: [Errno 17] File exists: '/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/resource/my_robot_controller' -> '/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/share/ament_index/resource_index/packages/my_robot_controller'
+[0.673s] Invoked command in '/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller' returned '1': PYTHONPATH=/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/prefix_override:/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/build --no-deps symlink_data

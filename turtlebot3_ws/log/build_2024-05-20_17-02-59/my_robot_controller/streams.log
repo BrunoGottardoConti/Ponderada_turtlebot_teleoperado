@@ -1,0 +1,12 @@
+[0.364s] Invoking command in '/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller': PYTHONPATH=/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/prefix_override:/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/build --no-deps symlink_data
+[0.522s] running develop
+[0.523s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.523s]   warnings.warn(
+[0.617s] running egg_info
+[0.618s] writing my_robot_controller.egg-info/PKG-INFO
+[0.618s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.618s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.618s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.618s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.619s] error: package directory 'my_robot_controller' does not exist
+[0.636s] Invoked command in '/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller' returned '1': PYTHONPATH=/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/prefix_override:/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/build --no-deps symlink_data

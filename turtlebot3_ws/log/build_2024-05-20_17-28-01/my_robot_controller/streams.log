@@ -1,0 +1,22 @@
+[0.364s] Invoking command in '/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/src/my_robot_controller': PYTHONPATH=/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/prefix_override:/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/build install --record /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[0.499s] running egg_info
+[0.500s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.500s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.500s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.500s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.500s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.501s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.502s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.502s] running build
+[0.502s] running build_py
+[0.502s] running install
+[0.502s] running install_lib
+[0.503s] running install_data
+[0.503s] running install_egg_info
+[0.504s] removing '/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.504s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.505s] running install_scripts
+[0.517s] Installing robot_controller script to /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/lib/my_robot_controller
+[0.517s] Installing teleop_interface script to /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/lib/my_robot_controller
+[0.517s] writing list of installed files to '/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/install.log'
+[0.531s] Invoked command in '/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/prefix_override:/home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/build install --record /home/brunoconti/Documents/GitHub/Ponderada_turtlebot_teleoperado/turtlebot3_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data

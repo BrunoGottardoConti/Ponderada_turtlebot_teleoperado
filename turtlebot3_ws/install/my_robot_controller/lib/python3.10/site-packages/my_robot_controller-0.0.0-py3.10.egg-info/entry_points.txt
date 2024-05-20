@@ -1,0 +1,4 @@
+[console_scripts]
+robot_controller = my_robot_controller.robot_controller:main
+teleop_interface = my_robot_controller.teleop_interface:main
+
